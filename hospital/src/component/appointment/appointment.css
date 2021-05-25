@@ -1,0 +1,20 @@
+.bg{
+	width: 100%;
+	height:100%;
+	overflow: hidden;
+	background-image: url('../../assets/images/appointment.jpg');
+}
+
+.main{
+    background-color: rgba(0,147,173,0.7);
+    overflow: auto;
+}
+.head{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.slot{
+    text-align: center;
+    margin: auto;
+}

@@ -1,0 +1,13 @@
+
+.mains{
+    background-color: rgba(0,147,173,0.7);
+    overflow: auto;
+}
+.head{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.img{
+    border-radius: 5px;
+}

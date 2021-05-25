@@ -1,0 +1,28 @@
+.main{
+	width: 100%;
+	height:100%;
+	overflow: hidden;
+	background-image: url('../../assets/images/appointment.jpg');
+}
+.nav{
+    display:flex;
+    justify-content: space-around;
+
+}
+
+
+.head{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.btn{
+    border:1px solid black;
+}
+
+Form{
+    text-align: center;
+}
+.input{
+    text-align: left;
+}
